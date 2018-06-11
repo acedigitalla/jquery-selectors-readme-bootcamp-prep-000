@@ -1,25 +1,25 @@
 // declare your functions here...
 Function paragraphSelector() {
-$('p')
+$('p');
 return
 }
 
 Function lastImageSelector() {
-$('img:last')
+$('img:last');
 return
 }
 
 Function ninjaBabySelector() {
-$('#baby-ninja')
+$('#baby-ninja');
 return
 }
 
 Function divSelector() {
-$('.pics')
+$('.pics');
 return
 }
 
 Function firstListItem() {
-$('#pic-list li:first-child')
+$('#pic-list li:first-child');
 return
 }
